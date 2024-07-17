@@ -1,0 +1,6 @@
+PyQt6==6.7.0
+pyinstaller==6.9.0
+psutil==6.0.0
+
+# command to create .exe file
+#pyinstaller --onefile --noconsole system_compatibility.py
